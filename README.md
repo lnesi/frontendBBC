@@ -1,3 +1,12 @@
+# Start
+
+````
+npm run dev
+````
+
+----
+
+
 # Technical Challenge
 
 Below is a small technical challenge which will be submitted to the BBC account development team.
